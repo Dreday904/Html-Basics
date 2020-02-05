@@ -228,6 +228,53 @@
 
   </body>
 </html>
+---------------------------------------------------------------------------------------------------------------------------------
+
+<!-- Assessment Practice -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Assessment Test HTML LEVEL 2</title>
+  </head>
+  <body>
+    <h1>Course Sign Up Page</h1>
+    <p>Please Note: First Name, Last Name, Password, and Email are required</p>
+    <form action="https://dribbble.com/shots/9733914-Thank-You"  method="get">
+      <label for="First Name">First Name:</label>
+      <input id="First Name" type="" name="" placeholder="First Name">
+
+      <label for="Last Name">Last Name:</label>
+      <input type="" name="" placeholder="Last Name">
+
+      <p>
+      <label for="Email">Email:</label>
+      <input type="" name="" placeholder="name@email.com">
+
+      <label for="Password">Password:</label>
+      <input type="" name="" value="">
+    </p>
+
+    <p>Are you over the age of 18?</p>
+    <label for="Yes">Yes:</label>
+    <input id="Yes" type="radio" name="loc" value="">
+
+    <label for="No">No:</label>
+    <input id="No" type="radio" name="loc" value="">
+
+    <p>Do you have a Credit Card or PayPal?</p>
+
+    <select name="Credit Card">
+      <option value="Credit Card">Credit Card</option>
+        <option value="PayPal">PayPal</option>
+    </select>
+
+    <p><input type="Submit" value="Submit Feedback"></p>
+    </form>
+
+  </body>
+</html>
 
 
 
