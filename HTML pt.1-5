@@ -68,6 +68,21 @@
 
 ---------------------------------------------------------------------------------------------------------------------
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>This is the title</title>
+  </head>
+  <body>
+    <h1>Attributes</h1>
+
+   <img src="https://www.pymnts.com/wp-content/uploads/2018/02/facebookpublisher.jpg" alt="Uh Oh! Image not Found!"> 
+
+<a href="http://www.facebook.com"><strong>FACEBOOK</strong></a>
+
+  </body>
+</html>
 
 
 
