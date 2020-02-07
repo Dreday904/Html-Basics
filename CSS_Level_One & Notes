@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CSS BASICS</title>
+    <link rel="stylesheet" href="Part1_master.css">
+  </head>
+  <body>
+      <h1>This is the heading</h1>
+
+      <p>Let's see a list:</p>
+
+      <ol>
+        <li>Item One</li>
+        <li>Item Two</li>
+        <li>Item Three</li>
+      </ol>
+
+      <h4>This is heading 4</h4>
+
+  </body>
+</html>.
+-------------------------------------------------------------------------------------------------------------------------------
+
+/*this is a comment*/
+/* Press ctrl /
+to make it all a comment bro */
+/* Selected tag here{
+  Property: value;
+} */
+
+
+h1{
+  color: blue;
+}
+
+li{
+  color: rgb(62, 79, 25);
+}
+
+p{
+  color: #364c59;
+}
+
+/* rgba basically means how transparent the line of code is. */
+h4{
+  color: rgba(62, 79, 25,0)
+}
+
