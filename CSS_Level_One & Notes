@@ -46,4 +46,64 @@ p{
 h4{
   color: rgba(62, 79, 25,0)
 }
+---------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CSS BASICS</title>
+    <link rel="stylesheet" href="Part2_master.css">
+  </head>
+  <body>
+    <p>This is a paragraph, outside any div</p>
+
+    <div>
+      <p>I'm inside the Div</p>
+      <p>I'm also inside the div</p>
+      <p>Inside div <span>INSIDE SPAN!</span></p>
+    </div>
+
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+body{
+  background:url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+  background-repeat: no-repeat;
+  /* the repeat is just how many times you want the image to repeat in the background. */
+
+}
+
+div{
+  background-color:blue;
+  border-color: orange;
+  border-width: 4px;
+  border-style: double;
+}
+
+
+p{
+  color: yellow;
+}
+
+
+span{
+  background: red;
+  color: black;
+}
+
+--------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 
