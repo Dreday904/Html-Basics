@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="Spectrum_project.css">
+    <link href="https://fonts.googleapis.com/css?family=Lacquer&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <!-- "td" is a table cell" -->
+    <h1 id="Spectrum">The Spectrum project that shook the nation</h1>
+
+    <table class="art">
+      <tr>
+        <td id="one"></td>
+        <td id="two"></td>
+        <td id="three"></td>
+        <td id="four"></td>
+        <td id="five"></td>
+      </tr>
+    </table>
+
+  </body>
+</html>
+
+
+h1{
+text-align: center;
+font-family: 'Lacquer', sans-serif;
+}
+
+/* using a dot . for a class grabs the whole things to edit */
+.art{
+  margin: auto;
+}
+
+td{
+  height: 300px;
+  width: 150px;
+  border: 20px solid white;
+}
+
+#one{
+  background-color: #22223B;
+}
+
+#two{
+  background-color: #4A4E69;
+}
+
+#three{
+  background-color: #9A8C98;
+}
+
+#four{
+  background-color: #C9ADA7;
+}
+
+#five{
+  background-color: #F2E9E4;
+}
+
+-----------------------------------------------------------------------------------------------------------------------------
