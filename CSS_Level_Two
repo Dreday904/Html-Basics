@@ -53,6 +53,72 @@ h1{
  the text-align can move the text. */
 --------------------------------------------------------------------------------------------------------------------------
 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link href="https://fonts.googleapis.com/css?family=Barrio&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="Part1_Fonts.css">
+  </head>
+  <body>
+    <h1>Heading One</h1>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+    <p id="two">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+  </body>
+</html>
+
+
+<!-- google fonts for 
+
+
+
+h1{
+  font-family:"arial";
+}
+
+p{
+  font-family: 'Barrio', cursive;
+}
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Box Model</title>
+    <link rel="stylesheet" href="Part2_Box_Models.css">
+  </head>
+  <body>
+
+    <h1 id="top">TOP</h1>
+    <h1 id="bottom">BOTTOM</h1>
+
+  </body>
+</html>
+
+#top{
+  border: 4px solid blue;
+  width: 25%;
+  text-align: center;
+  /* top,right,bottom,left */
+  margin: auto;
+}
+#bottom{
+  border:4px solid red;
+  width:50%;
+  padding: 200px;
+  text-align: center;
+}
+
+-----------------------------------------------------------------------------------------------------------
+
+
 
 
 
