@@ -114,3 +114,28 @@ console.log("Hello world")
 
 // Accept Prompt Inputs
 var age = prompt("How old are you?")
+
+--------------------------------------------------------------------------------------------
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <!-- use script tag to connect js to your html -->
+    <script src="myscript.js"></script>
+
+    <h1>Welcome to your bank!</h1>
+  </body>
+</html>
+---------------------------------------------------------------------
+
+alert("welcome to your bank");
+var deposit = prompt("how much would you like to deposite today?");
+alert("you've deposited: "+deposit);
+console.log("you are a cool person!");
+
